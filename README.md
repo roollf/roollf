@@ -5,7 +5,7 @@ I am currently studying **Systems Analysis and Development** and working as an i
 
 <div align="center">
   
-![Rolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=roollf\&rank_icon=github&show_icons=true&theme=swift&hide_border=True)
+<a href="https://github.com/roollf" target="_blank">![Rolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=roollf\&rank_icon=github&show_icons=true&theme=swift&hide_border=True)</a>
 
 </div>
 
@@ -15,8 +15,8 @@ I am currently studying **Systems Analysis and Development** and working as an i
 
 <div align="center">
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roollf&repo=onmusic-front&theme=swift&hide_border=True) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roollf&repo=restaurante-order-system-v02&theme=swift&hide_border=True)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roollf&repo=onmusic-back&theme=swift&hide_border=True) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roollf&repo=expo-image-editor-drbone&theme=swift&hide_border=True)
+<a href="https://github.com/roollf/onmusic-front" target="_blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roollf&repo=onmusic-front&theme=swift&hide_border=True)</a> <a href="https://github.com/roollf/restaurante-order-system-v02" target="_blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roollf&repo=restaurante-order-system-v02&theme=swift&hide_border=True)</a>
+<a href="https://github.com/roollf/onmusic-back" target="_blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roollf&repo=onmusic-back&theme=swift&hide_border=True)</a> <a href="https://github.com/roollf/expo-image-editor-drbone" target="_blank">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roollf&repo=expo-image-editor-drbone&theme=swift&hide_border=True)</a>
 
 </div>
 
