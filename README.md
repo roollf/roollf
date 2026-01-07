@@ -17,8 +17,6 @@ I am a software developer focused on building scalable, high-performance applica
 * **Efficiency**: Created a Next.js boilerplate that reduced project setup time by 38%.
 * **Scientific Research**: Co-author of a research paper published at CBIS regarding medical AI applications.
 
-<br>
-
 ## contact me
 
 <a href="https://www.linkedin.com/in/rolf-matela-2a1526181/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
